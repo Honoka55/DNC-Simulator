@@ -5,7 +5,7 @@
 
 # DNC-Simulator
 
-_💃 HTML5 Game 🥛_
+_💃 HTML5 Game 🛞_
 
 </div>
 
