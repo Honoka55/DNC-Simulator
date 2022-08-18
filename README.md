@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://honoka55.github.io/DNC-Simulator/"><img src="https://github.com/Honoka55/DNC-Simulator/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="DNC-Simulator"></a>
+  <a href="https://honoka55.github.io/DNC-Simulator/"><img src="https://github.com/Honoka55/DNC-Simulator/raw/main/static/image/ClickBefore.png" width="100" height="100" alt="DNC-Simulator"></a>
 </p>
 <div align="center">
 
 # DNC-Simulator
 
-_💃 HTML5 Game 🛞_
+_💃 HTML5 Game ☸️_
 
 </div>
 
