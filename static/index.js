@@ -504,10 +504,10 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
 
         if (cps <= 5) return I18N['text-level-1'];
         if (cps <= 8) return I18N['text-level-2'];
-        if (cps <= 11)  return I18N['text-level-3'];
-        if (cps <= 14) return I18N['text-level-4'];
-        if (cps <= 18) return I18N['text-level-5'];
-        if (cps <= 20) return I18N['text-level-6'];
+        if (cps <= 10)  return I18N['text-level-3'];
+        if (cps <= 13) return I18N['text-level-4'];
+        if (cps <= 15) return I18N['text-level-5'];
+        if (cps <= 16) return I18N['text-level-6'];
         return I18N['text-level-7'];
     }
 
